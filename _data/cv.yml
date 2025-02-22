@@ -1,0 +1,94 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: M.S. in Mathematics and Computer Science(Minor) 
+      institution: Indian Institute of Science Education and Research Berhampur, INDIA
+      year: 2020-2025
+      description:
+        - M.S. Thesis Dissertation on Non-Stationary Markov Decision Processes and Continual Reinforcement Learning Algorithms
+        - M.S Thesis Advised by <a href="https://sites.google.com/site/pksrijith/home?authuser=0">Dr. Srijith P.K., Associate Professor, Department of AI, IIT Hyderabad</a>.
+        
+    - title: B.S. in Mathematics 
+      institution: Indian Institute of Science Education and Research Berhampur, INDIA
+      year: 2020-2025
+      description:
+        - Relevant Coursework
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Master's Thesis Student
+      institution: Indian Institute of Technology Hyderabad, INDIA
+      year: August 2024 — Present
+
+    - title: Summer Research Fellow
+      institution: Indian Institute of Technology, Ropar, INDIA
+      year: Summer 2023
+      description:
+        - Hosted by Dr. Sudarshan Iyengar, Head of CSE Department, IIT Ropar
+        - Worked on Fine-Tuning Open source LLMs (LLaMA 7B) using Parameter Efficient Fine-Tuning Methods
+    - title: Machine Learning Intern
+      institution: REint AI
+      year: August 2023 - September 2023
+      description:
+        - Hosted by Tarun Raj, Co-Founder and CEO, REint AI
+    - title: Summer Research Intern
+      institution: Indian Institute of Technology, Hyderabad, INDIA
+      year: Summer 2022
+      description:
+        - Hosted by Dr. Srijith P.K., Associate Professor, Department of AI, IIT Hyderabad
+
+    - title: Undergraduate Student Researcher
+      institution: Indian Institute of Science Education and Research Berhampur, INDIA
+      year: Summer 2017
+      description:
+        - Hosted by Dr.Vivek Tiwari, Assistant Professor, Department of Biological Sciences, IISER Berhampur
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Meritorious Winner of the 2023 WAIC Yunfan Award.
+    - year: 2021
+      items: 
+        - <a href="https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab">ICLR Outstanding Paper Award</a>
+        - NeurIPS Outstanding Reviewer Award
+        - <a href="https://mp.weixin.qq.com/s/FQqzM3MXFlGGo4ct5kxERg">WAIC Rising Star Award</a>
+    - year: 2020
+      items: 
+        - <a href="https://www.apple.com/education/higher-education/scholars/">Apple PhD Fellowship in AI/ML</a>
+        - <a href="https://www.jpmorgan.com/global/technology/ai/awards/phd-fellowship-award-recipients-2020">J.P. Morgan PhD Fellowship</a>
+        - <a href="https://research.facebook.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/">Facebook Fellowship, Finalist</a>
+    - year: 2016
+      items:
+        - Stanford School of Engineering Fellowship
+        - Excellent Graduate, Tsinghua University
+        - Qualcomm Fellowship
+        - Microsoft-IEEE Fellowship
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Co-Instructor
+      institution: >
+        <a href="https://deepgenerativemodels.github.io/">CS236: Deep Generative Models</a>, Stanford University
+      year: Fall 2021
+      
+    - title: Teaching Assistant
+      institution: >
+        <a href="https://deepgenerativemodels.github.io/2019/">CS236: Deep Generative Models</a>, Stanford University
+      year: Fall 2019
+      
+    - title: Head Teaching Assistant
+      institution: >
+        <a href="https://deepgenerativemodels.github.io/2018/">CS236: Deep Generative Models</a>, Stanford University
+      year: Fall 2018
+
+- title: Professional Services
+  type: list
+  contents:    
+    - <strong>Organizer:</strong> <a href="https://score-based-methods-workshop.github.io/">NeurIPS 2022 Workshop on Score-Based Methods</a>.
+    - <strong>Area Chair:</strong> CVPR (2023), NeurIPS (2023).
+    - <strong>Journal Reviewer:</strong> JRSS-B, JMLR, TMLR, IEEE TPAMI, ACM TKDD, Medical Image Analysis, IEEE TIFS, IEEE TNNLS, IEEE TDSC, IET CV.
+    - <strong>Conference Reviewer/ Program Committee:</strong> NeurIPS (2019-2022, 2016), ICML (2019-2023), ICLR (2019-2023), AISTATS (2020-2022), UAI (2020-2023), AAAI (2020).
